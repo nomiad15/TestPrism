@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
@@ -12,19 +11,4 @@
         <Button Text="Service" Command="{Binding NavigateComand}" CommandParameter="ServicePage" />
     </StackLayout>
 
-=======
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="TestPrism.Views.MainPage"
-             Title="{Binding Title}">
-
-    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
-        <Label Text="Welcome to Xamarin Forms and Prism!" />
-        <Button Text="Тест Prism" Command="{Binding NavigateComand}" CommandParameter="PrismContentPage1" />
-        <Button Text="Realm DB" Command="{Binding NavigateComand}" CommandParameter="RealmDBPage" />
-        <Button Text="Service" Command="{Binding NavigateComand}" CommandParameter="ServicePage" />
-    </StackLayout>
-
->>>>>>> master
 </ContentPage>
