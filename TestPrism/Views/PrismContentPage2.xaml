@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
@@ -12,4 +13,20 @@
         <Entry Text="{Binding Phone}"/>
     </StackLayout>
     
+=======
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="TestPrism.Views.PrismContentPage2"
+             Title="{Binding Title}">
+    
+    <StackLayout>
+        <Label Text="{Binding Title}" />
+        <Entry Text="{Binding Name}"/>
+        <Entry Text="{Binding Phone}"/>
+    </StackLayout>
+    
+>>>>>>> master
 </ContentPage>

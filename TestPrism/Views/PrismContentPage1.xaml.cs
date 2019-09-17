@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Xamarin.Forms;
 
 namespace TestPrism.Views
@@ -10,3 +11,17 @@ namespace TestPrism.Views
         }
     }
 }
+=======
+﻿using Xamarin.Forms;
+
+namespace TestPrism.Views
+{
+    public partial class PrismContentPage1 : ContentPage
+    {
+        public PrismContentPage1()
+        {
+            InitializeComponent();
+        }
+    }
+}
+>>>>>>> master
