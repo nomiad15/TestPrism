@@ -1,0 +1,17 @@
+D:\Repos\TestPrism\TestPrism\TestPrism\bin\Debug\netstandard2.0\TestPrism.deps.json
+D:\Repos\TestPrism\TestPrism\TestPrism\bin\Debug\netstandard2.0\TestPrism.dll
+D:\Repos\TestPrism\TestPrism\TestPrism\bin\Debug\netstandard2.0\TestPrism.pdb
+D:\Repos\TestPrism\TestPrism\TestPrism\obj\Debug\netstandard2.0\TestPrism.csprojAssemblyReference.cache
+D:\Repos\TestPrism\TestPrism\TestPrism\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Repos\TestPrism\TestPrism\TestPrism\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Repos\TestPrism\TestPrism\TestPrism\obj\Debug\netstandard2.0\Views\PrismContentPage1.xaml.g.cs
+D:\Repos\TestPrism\TestPrism\TestPrism\obj\Debug\netstandard2.0\Views\PrismContentPage2.xaml.g.cs
+D:\Repos\TestPrism\TestPrism\TestPrism\obj\Debug\netstandard2.0\Views\RealmDBPage.xaml.g.cs
+D:\Repos\TestPrism\TestPrism\TestPrism\obj\Debug\netstandard2.0\Views\ServicePage.xaml.g.cs
+D:\Repos\TestPrism\TestPrism\TestPrism\obj\Debug\netstandard2.0\TestPrism.csproj.CoreCompileInputs.cache
+D:\Repos\TestPrism\TestPrism\TestPrism\obj\Debug\netstandard2.0\TestPrism.AssemblyInfoInputs.cache
+D:\Repos\TestPrism\TestPrism\TestPrism\obj\Debug\netstandard2.0\TestPrism.AssemblyInfo.cs
+D:\Repos\TestPrism\TestPrism\TestPrism\obj\Debug\netstandard2.0\TestPrism.csproj.Fody.CopyLocal.cache
+D:\Repos\TestPrism\TestPrism\TestPrism\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Repos\TestPrism\TestPrism\TestPrism\obj\Debug\netstandard2.0\TestPrism.dll
+D:\Repos\TestPrism\TestPrism\TestPrism\obj\Debug\netstandard2.0\TestPrism.pdb
