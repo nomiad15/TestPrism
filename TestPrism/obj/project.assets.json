@@ -2892,11 +2892,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repos\\TestPrism\\TestPrism\\TestPrism\\TestPrism.csproj",
+      "projectUniqueName": "D:\\Repos\\TestPrismLocal\\TestPrism\\TestPrism\\TestPrism.csproj",
       "projectName": "TestPrism",
-      "projectPath": "D:\\Repos\\TestPrism\\TestPrism\\TestPrism\\TestPrism.csproj",
+      "projectPath": "D:\\Repos\\TestPrismLocal\\TestPrism\\TestPrism\\TestPrism.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\TestPrism\\TestPrism\\TestPrism\\obj\\",
+      "outputPath": "D:\\Repos\\TestPrismLocal\\TestPrism\\TestPrism\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
