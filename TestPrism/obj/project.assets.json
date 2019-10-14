@@ -2887,20 +2887,20 @@
   "packageFolders": {
     "C:\\Users\\Home\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repos\\TestPrismLocal\\TestPrism\\TestPrism\\TestPrism.csproj",
+      "projectUniqueName": "D:\\Repos\\TestPrism\\TestPrism\\TestPrism\\TestPrism.csproj",
       "projectName": "TestPrism",
-      "projectPath": "D:\\Repos\\TestPrismLocal\\TestPrism\\TestPrism\\TestPrism.csproj",
+      "projectPath": "D:\\Repos\\TestPrism\\TestPrism\\TestPrism\\TestPrism.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\TestPrismLocal\\TestPrism\\TestPrism\\obj\\",
+      "outputPath": "D:\\Repos\\TestPrism\\TestPrism\\TestPrism\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
