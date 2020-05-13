@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Text;
 
-//test
 namespace TestPrism.Dto
 {
     public class FriendDto
