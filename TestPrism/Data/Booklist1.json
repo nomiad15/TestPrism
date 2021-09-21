@@ -1,7 +1,7 @@
 {
   "Books": [
     {
-      "Id": 133,
+      "Id": 13,
       "Title": "Knockemstiff 555",
       "Author": "Pollock",
       "FirstName": "Donald R. 0",
@@ -9,7 +9,7 @@
       "Read": true
     },
     {
-      "Id": 144,
+      "Id": 14,
       "Title": "Fear of flying 2",
       "Author": "Jong",
       "FirstName": "Erica",
@@ -21,7 +21,7 @@
       "Title": "Jakob von Gunten local 3",
       "Author": "Walser",
       "FirstName": "Robert",
-      "Year": 1910123,
+      "Year": 1910,
       "Read": false
     },
     {
@@ -29,7 +29,7 @@
       "Title": "Into the wild 4",
       "Author": "Krakauer",
       "FirstName": "Jon",
-      "Year": 2018,
+      "Year": 2018123,
       "Read": true
     },
     {
@@ -45,7 +45,7 @@
       "Title": "Jakob von Gunten",
       "Author": "Walser",
       "FirstName": "Robert",
-      "Year": 1909,
+      "Year": 1909123,
       "Read": false
     },
     {
